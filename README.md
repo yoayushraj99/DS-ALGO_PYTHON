@@ -1,7 +1,7 @@
 # DS-ALGO_PYTHON
 This repo contains important Data Structure and Algorithm and it's written in Python.
 
-###Content
+#Content
 
 - Data Structures
   - Arrays
