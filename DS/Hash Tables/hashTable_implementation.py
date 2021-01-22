@@ -29,16 +29,36 @@ class HashTable:
                     return i[1]
         return None
 
+    def keys(self):
+        keys = []
+        for i in self.data:
+            if i is not None:
+                keys.append(i[0][0])
+        return keys
 
-new_hash = HashTable(4)
+    def values(self):
+        values= []
+        for i in self.data:
+            if i is not None:
+                values.append(i[0][1])
+        return values
+
+
+new_hash = HashTable(5)
 print(new_hash)
-# {'size': 4, 'data': [None, None, None, None]}
+# {'size': 5, 'data': [None, None, None, None, None]}
 
 new_hash.set('apples', 100)
 new_hash.set('bananas', 20000)
 print(new_hash)
-# {'size': 4, 'data': [None, None, None, [['apples', 100], ['bananas', 20000]]]}
+# {'size': 5, 'data': [None, None, None, [['bananas', 20000]], [['apples', 100]]]}
 
 print(new_hash.get('apples'))
 # 100
+
+print(new_hash.keys())
+# ['bananas', 'apples']
+
+print(new_hash.values())
+# [20000, 100]
 
