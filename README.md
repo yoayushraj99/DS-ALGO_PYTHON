@@ -12,3 +12,9 @@ This repo contains important Data Structure and Algorithm and it's written in Py
   - Hash Tables
     - [hashTable_implementation.py](https://github.com/yoayushraj99/DS-ALGO_PYTHON/blob/main/DS/Hash%20Tables/hashTable_implementation.py)
     - [first_recurring_character.py](https://github.com/yoayushraj99/DS-ALGO_PYTHON/blob/main/DS/Hash%20Tables/first_recurring_character.py)
+  - Linked Lists
+    - [linkedLists_implementation.py](https://github.com/yoayushraj99/DS-ALGO_PYTHON/blob/main/DS/Linked%20Lists/linkedLists_implementation.py)
+    - [doubly_linkedLists.py](https://github.com/yoayushraj99/DS-ALGO_PYTHON/blob/main/DS/Linked%20Lists/doubly_linkedLists.py)
+  - Stacks and Queues
+    - [stacks.py](https://github.com/yoayushraj99/DS-ALGO_PYTHON/blob/main/DS/Stacks%20and%20Queues/stacks.py)
+    - [queues.py](https://github.com/yoayushraj99/DS-ALGO_PYTHON/blob/main/DS/Stacks%20and%20Queues/queues.py)
