@@ -20,7 +20,7 @@ class Queue:
         new_node = Node(value)
         if self.top is None:
             self.bottom = new_node
-            self.top = self.bottom
+            self.top = new_node
         else:
             self.bottom.next = new_node
             self.bottom = new_node
@@ -29,9 +29,10 @@ class Queue:
     def dequeue(self):
         if self.top is None:
             return None
-        else:
-            self.top = self.top.next
-            self.length -= 1
+        if self.top == self.bottom:
+            self.bottom = None
+        self.top = self.top.next
+        self.length -= 1
 
 
 my_queue = Queue()
@@ -47,3 +48,6 @@ print(my_queue.top.value)
 
 print(my_queue.peek())
 # Angela
+
+print(my_queue.length)
+# 2
