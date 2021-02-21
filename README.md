@@ -15,6 +15,7 @@ This repo contains important Data Structure and Algorithm and it's written in Py
   - Linked Lists
     - [linkedLists_implementation.py](https://github.com/yoayushraj99/DS-ALGO_PYTHON/blob/main/DS/Linked%20Lists/linkedLists_implementation.py)
     - [doubly_linkedLists.py](https://github.com/yoayushraj99/DS-ALGO_PYTHON/blob/main/DS/Linked%20Lists/doubly_linkedLists.py)
-  - Stacks and Queues
-    - [stacks.py](https://github.com/yoayushraj99/DS-ALGO_PYTHON/blob/main/DS/Stacks%20and%20Queues/stacks.py)
-    - [queues.py](https://github.com/yoayushraj99/DS-ALGO_PYTHON/blob/main/DS/Stacks%20and%20Queues/queues.py)
+  - Queues
+    - [queues_linked_list_implementation.py](https://github.com/yoayushraj99/DS-ALGO_PYTHON/blob/main/DS/Queues/queues_linked_list_implementation.py)
+  - Stacks
+    - [stack_linked_list_implementation.py](https://github.com/yoayushraj99/DS-ALGO_PYTHON/blob/main/DS/Stacks/stack_linked_list_implementation.py)
