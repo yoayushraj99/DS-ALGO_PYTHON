@@ -16,6 +16,7 @@ class Stack:
     def peek(self):
         if self.top is None:
             return None
+        return self.top.value
 
     def push(self, value):
         new_node = Node(value)
@@ -31,17 +32,33 @@ class Stack:
         if self.length == 0:
             return None
         else:
+            pop_value = self.top.value
             self.top = self.top.next
             self.length -= 1
-            if self.length == 0:
-                self.bottom = None
+            return pop_value
 
     def is_empty(self):
         if self.top is None:
-            return "Empty"
-        return "hmm lag toh rha hai kuch toh hai."
+            return True
+        return False
 
 
 my_stack = Stack()
 my_stack.push('google')
-print(my_stack.top.value)
+my_stack.push('udemy')
+my_stack.push('youtube')
+print(my_stack.peek())
+# youtube
+
+print(my_stack.pop())
+# youtube
+
+print(my_stack.peek())
+# udemy
+
+print(my_stack.is_empty())
+# False
+
+
+
+
