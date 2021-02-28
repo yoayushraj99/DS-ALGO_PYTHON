@@ -6,9 +6,10 @@ def reverse1(string):
     print(reverse_str)
 
 
+# Method-2
 def reverse2(string):
     reverse_list = []
-    for i in range(len(string)-1, -1, -1):
+    for i in range(len(string) - 1, -1, -1):
         reverse_list.append(string[i])
     reverse_str = "".join(reverse_list)
     print(reverse_str)
