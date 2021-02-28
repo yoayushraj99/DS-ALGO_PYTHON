@@ -6,14 +6,20 @@ numbers = [1, 2, 3, 4, 5]
 
 # Append
 strings.append('e')
+print(strings)
+# ['a', 'b', 'c', 'd', 'e']
 
 # Pop
 strings.pop()
+print(strings)
+# ['a', 'b', 'c', 'd']
 
 # Insert
 strings.insert(0, 'x')
+print(strings)
+# ['x', 'a', 'b', 'c', 'd']
 
 # Remove
 strings.remove('b')
-
 print(strings)
+# ['x', 'a', 'c', 'd']
