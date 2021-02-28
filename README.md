@@ -22,3 +22,5 @@ This repo contains important Data Structure and Algorithm and it's written in Py
     - [stack_array_implementation.py](https://github.com/yoayushraj99/DS-ALGO_PYTHON/blob/main/DS/Stacks/stack_array_implementation.py)
   - Trees
     - [binary_search_tree.py](https://github.com/yoayushraj99/DS-ALGO_PYTHON/blob/main/DS/Trees/binary_search_tree.py)
+  - Graph
+    - [graphs_implementation.py](https://github.com/yoayushraj99/DS-ALGO_PYTHON/blob/main/DS/Graphs/graphs_implementation.py)
