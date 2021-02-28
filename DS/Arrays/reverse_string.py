@@ -15,4 +15,7 @@ def reverse2(string):
 
 
 reverse1("i am ayush")
+# hsuya ma i
+
 reverse2("Angela Yu")
+# uY alegnA
