@@ -24,3 +24,8 @@ This repo contains important Data Structure and Algorithm and it's written in Py
     - [binary_search_tree.py](https://github.com/yoayushraj99/DS-ALGO_PYTHON/blob/main/DS/Trees/binary_search_tree.py)
   - Graph
     - [graphs_implementation.py](https://github.com/yoayushraj99/DS-ALGO_PYTHON/blob/main/DS/Graphs/graphs_implementation.py)
+
+-Algorithms
+  - Recursion
+    - [factorial.py](https://github.com/yoayushraj99/DS-ALGO_PYTHON/blob/main/Algorithm/Recursion/factorial.py)
+    - [fibonacci.py](https://github.com/yoayushraj99/DS-ALGO_PYTHON/blob/main/Algorithm/Recursion/fibonacci.py)
