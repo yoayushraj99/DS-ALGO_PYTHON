@@ -30,3 +30,5 @@ This repo contains important Data Structure and Algorithm and it's written in Py
     - [factorial.py](https://github.com/yoayushraj99/DS-ALGO_PYTHON/blob/main/Algorithm/Recursion/factorial.py)
     - [fibonacci.py](https://github.com/yoayushraj99/DS-ALGO_PYTHON/blob/main/Algorithm/Recursion/fibonacci.py)
   - Sorting
+    - [bubble_sort.py](https://github.com/yoayushraj99/DS-ALGO_PYTHON/blob/main/Algorithm/Sorting/bubbleSort.py)
+    - [selection_sort.py](https://github.com/yoayushraj99/DS-ALGO_PYTHON/blob/main/Algorithm/Sorting/selection_sort.py)
