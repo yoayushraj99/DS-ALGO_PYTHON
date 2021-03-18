@@ -32,3 +32,4 @@ This repo contains important Data Structure and Algorithm and it's written in Py
   - Sorting
     - [bubble_sort.py](https://github.com/yoayushraj99/DS-ALGO_PYTHON/blob/main/Algorithm/Sorting/bubbleSort.py)
     - [selection_sort.py](https://github.com/yoayushraj99/DS-ALGO_PYTHON/blob/main/Algorithm/Sorting/selection_sort.py)
+    - [insertion_sort.py](https://github.com/yoayushraj99/DS-ALGO_PYTHON/blob/main/Algorithm/Sorting/insertion_sort.py)
