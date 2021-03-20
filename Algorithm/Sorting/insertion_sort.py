@@ -13,4 +13,4 @@ def insertion_sort(array):
 
 numbers = [99, 44, 6, 2, 1, 5, 63, 87, 283, 4, 0]
 print(insertion_sort(numbers))
-# [2,44,6,99,1]
+# [0, 1, 2, 4, 5, 6, 44, 63, 87, 99, 283]
