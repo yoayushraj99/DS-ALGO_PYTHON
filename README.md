@@ -33,3 +33,7 @@ This repo contains important Data Structure and Algorithm and it's written in Py
     - [bubble_sort.py](https://github.com/yoayushraj99/DS-ALGO_PYTHON/blob/main/Algorithm/Sorting/bubbleSort.py)
     - [selection_sort.py](https://github.com/yoayushraj99/DS-ALGO_PYTHON/blob/main/Algorithm/Sorting/selection_sort.py)
     - [insertion_sort.py](https://github.com/yoayushraj99/DS-ALGO_PYTHON/blob/main/Algorithm/Sorting/insertion_sort.py)
+  - Searching + BFS + DFS
+    - [linear_search.py](https://github.com/yoayushraj99/DS-ALGO_PYTHON/blob/main/Algorithm/Searching%20%2B%20BFS%20%2B%20DFS/linear_search.py)
+    - [binary_search.py](https://github.com/yoayushraj99/DS-ALGO_PYTHON/blob/main/Algorithm/Searching%20%2B%20BFS%20%2B%20DFS/binary_search.py)
+    - [breadth_first_search.py](https://github.com/yoayushraj99/DS-ALGO_PYTHON/blob/main/Algorithm/Searching%20%2B%20BFS%20%2B%20DFS/BFS/breadth_first_search.py)
