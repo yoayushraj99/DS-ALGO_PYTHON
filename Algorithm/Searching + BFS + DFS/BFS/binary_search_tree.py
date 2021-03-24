@@ -42,21 +42,3 @@ class BinarySearchTree:
             elif value > current_node.value:
                 # Go right
                 current_node = current_node.right
-
-
-tree = BinarySearchTree()
-tree.insert(9)
-tree.insert(4)
-tree.insert(1)
-tree.insert(6)
-tree.insert(20)
-tree.insert(15)
-tree.insert(170)
-print(tree.root.value)
-# 9
-
-print(tree.lookup(170))
-# 170
-
-print(tree.lookup(171))
-# None

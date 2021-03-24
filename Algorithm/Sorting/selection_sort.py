@@ -8,6 +8,5 @@ def selection_sort(array):
         array[i], array[min] = array[min], array[i]
     return array
 
-
 numbers = [99, 44, 6, 2, 1, 5, 63, 87, 283, 4, 0]
 print(selection_sort(numbers))
