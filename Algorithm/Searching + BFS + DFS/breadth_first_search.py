@@ -27,8 +27,6 @@ def breadth_first_search():
 
 
 print(breadth_first_search())
-
-
 # [9, 4, 20, 1, 6, 15, 170]
 
 
