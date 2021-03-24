@@ -9,6 +9,7 @@ tree.insert(20)
 tree.insert(15)
 tree.insert(170)
 
+
 # Method-1
 
 def breadth_first_search():
@@ -26,6 +27,8 @@ def breadth_first_search():
 
 
 print(breadth_first_search())
+
+
 # [9, 4, 20, 1, 6, 15, 170]
 
 
