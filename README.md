@@ -38,3 +38,5 @@ This repo contains important Data Structure and Algorithm and it's written in Py
     - [binary_search.py](https://github.com/yoayushraj99/DS-ALGO_PYTHON/blob/main/Algorithm/Searching%20%2B%20BFS%20%2B%20DFS/binary_search.py)
     - [breadth_first_search.py](https://github.com/yoayushraj99/DS-ALGO_PYTHON/blob/main/Algorithm/Searching%20%2B%20BFS%20%2B%20DFS/breadth_first_search.py)
     - [depth_first_search.py](https://github.com/yoayushraj99/DS-ALGO_PYTHON/blob/main/Algorithm/Searching%20%2B%20BFS%20%2B%20DFS/depth_first_search.py)
+  - Dynamic Programming
+    - [fibonacci.py](https://github.com/yoayushraj99/DS-ALGO_PYTHON/blob/main/Algorithm/Dynamic%20Programming/fibonacci.py)
