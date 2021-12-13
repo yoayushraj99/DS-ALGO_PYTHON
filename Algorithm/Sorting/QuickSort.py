@@ -5,8 +5,8 @@
 #
 # Chose a pivot(generally we take the last element as pivot) then
 # using partition fuction put the elements lesser than pivot to the left of the pivot and
-# the elements larger than the pivor to the right of the pivot.
-# Then do this recusively.
+# the elements larger than the pivot to the right of the pivot.
+# Then do this recursively.
 
 # 2. Dealing with duplicates
 #       -> Use 3-way quicksort
